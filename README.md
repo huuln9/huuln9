@@ -5,10 +5,10 @@
 </h1>
 <p style="display:flex; justify-content: space-between">
 	<a href="https://github.com/huuln9">
-		<img alt="stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=huuln9&show_icons=true&count_private=false&theme=merko&hide_border=true&bg_color=0D1117" />
+		<img alt="stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=huuln9&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" />
 	</a>
 	<a href="https://github.com/huuln9">
-		<img alt="top-langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuln9&langs_count=8&count_private=false&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" />
+		<img alt="top-langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuln9&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" />
 	</a>
 </p>
 
