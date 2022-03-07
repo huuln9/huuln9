@@ -35,6 +35,7 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
 <img align="left" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/09/logo-256x256.png"/>
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
