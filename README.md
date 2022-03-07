@@ -23,11 +23,16 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
+<img align="left" width="45px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 <br><br><br>
 <hr>
 <p style="display:flex; justify-content: space-between">
 	<a href="https://github.com/huuln9">
-		<img alt="stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=huuln9&show_icons=false&count_private=false&theme=merko&hide_border=true&bg_color=0D1117" />
+		<img alt="stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=huuln9&show_icons=false&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" />
 	</a>
 	<a href="https://github.com/huuln9">
 		<img alt="top-langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuln9&langs_count=10&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" />
