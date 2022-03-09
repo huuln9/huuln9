@@ -6,7 +6,7 @@
 <div align="center">私の名前はHữuです.</div>
 <div align="center">...</div>
 <h3>Languages</h3>
-<img align="left" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"/>
+<img align="left" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
 <img align="left" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/>
