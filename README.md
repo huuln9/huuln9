@@ -3,7 +3,10 @@
 		<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width="200px">
 	</a>
 </h1>
-<div align="center">私の名前はHữuです.</div>
+<div align="center">
+	よろしく. <br>
+	私の名前はHữuです.
+</div>
 <div align="center">...</div>
 <h3>Languages</h3>
 <img align="left" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"/>
