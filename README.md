@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
 	よろしく. <br>
-	私の名前はHữuです.
+	私の名前はフウです.
 </div>
 <div align="center">...</div>
 <h3>Languages</h3>
