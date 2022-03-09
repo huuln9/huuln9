@@ -18,7 +18,7 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" width="35px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
-<br><br><br><br><br>
+<br><br><br><br>
 <h3>Frameworks</h3>
 <img align="left" width="70px" style="padding-right:10px;" src="https://blogs.ashrithgn.com/content/images/2019/07/spring-boot-logo.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://devnote.tech/wp-content/uploads/2021/10/Angular-logo.png"/>
@@ -29,7 +29,7 @@
 <img align="left" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"/>
-<br><br><br>
+<br><br>
 <h3>Tools</h3>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" width="27px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/>
