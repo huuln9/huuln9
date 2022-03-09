@@ -4,6 +4,9 @@
 	</a>
 </h1>
 <div align="center">
+	<img src="https://c.tenor.com/9FiNtYctb9cAAAAC/hajimemashite-yoroshiku.gif" width="200px" height="200px">
+	<img src="https://c.tenor.com/XXAktYFIOXUAAAAC/pieck-finger-yoroshiku.gif" width="200px" height="200px">
+	<br>
 	よろしく. <br>
 	私の名前はフウです.
 </div>
