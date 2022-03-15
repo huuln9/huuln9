@@ -18,7 +18,7 @@
 <img align="left" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"/>
-<img align="left" width="85px" style="padding-right88px;" src="https://seeklogo.com/images/D/dart-logo-86B5DDAA61-seeklogo.com.png"/>
+<img align="left" width="80px" style="padding-right:10px;" src="https://seeklogo.com/images/D/dart-logo-86B5DDAA61-seeklogo.com.png"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"/>
