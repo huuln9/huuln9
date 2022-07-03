@@ -8,7 +8,7 @@
 	<img src="https://c.tenor.com/XXAktYFIOXUAAAAC/pieck-finger-yoroshiku.gif" width="200px" height="200px">
 	<br>
 	よろしく. <br>
-	私の名前はフウです.
+	私の名前はHSMです.
 </div>
 <div align="center">...</div>
 <h3>Languages</h3>
