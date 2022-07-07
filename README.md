@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a href="https://github.com/huuln9">
-		<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width="200px">
+		<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width="200px" height="200px">
 	</a>
 </h1>
 <div align="center">
