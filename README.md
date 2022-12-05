@@ -3,7 +3,7 @@
 		<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/190f10cafb9836123a6757d583746096-1607512905/Attachment_1607512865/create-personalized-among-us-gif-and-png-for-you.gif" width="200px" height="200px">
 	</a>
 </h1>
-<div align="center">...</div>
+<!-- <div align="center">...</div>
 <h3>Languages</h3>
 <img align="left" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"/>
@@ -40,7 +40,7 @@
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
-<br><br><br>
+<br><br><br> -->
 <hr>
 <p style="display:flex; justify-content: space-between">
 	<a href="https://github.com/huuln9">
